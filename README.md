@@ -2,12 +2,6 @@
 
 I'm a Computer Engineering student at the University of British Columbia (UBC) passionate about building intelligent and impactful technology.
 
-My interests include:
-- 🤖 Machine Learning & AI
-- 🚗 Autonomous Systems & Robotics
-- 🌐 Full-Stack Software Development
-- ☁️ Cloud Infrastructure & DevOps
-
 I enjoy building real-world projects ranging from self-driving systems and computer vision applications to scalable web platforms and cloud-native tools.
 
 ---
