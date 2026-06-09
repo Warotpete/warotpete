@@ -19,19 +19,6 @@ Docker, Linux, Git, PostgreSQL, Firebase, Vercel, Azure, GCP
 
 ---
 
-## 🚀 Featured Projects
-
-### Autonomous Driving Car
-Real-time self-driving system using ROS2 and LiDAR with mapping, obstacle avoidance, and race-line optimization.
-
-### AI Facial Recognition Platform
-Built a full-stack facial recognition platform using FastAPI, Next.js, ChromaDB, and PostgreSQL.
-
-### Insurance Cost Predictor
-Machine learning platform that won 1st place at Botnoi OpenAI HackFest 2023.
-
----
-
 ## 🌐 Connect with Me
 
 - Portfolio: https://warotpete.vercel.app
